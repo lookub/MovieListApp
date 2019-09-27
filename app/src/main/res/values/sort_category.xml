@@ -1,0 +1,17 @@
+<resources>
+    <string name="sort_categories">SingleChoiceDialog</string>
+
+    <string-array name="sort_categories">
+        <item>TITLE_ASC</item>
+        <item>TITLE_DESC</item>
+        <item>POPULARITY_ASC</item>
+        <item>POPULARITY_DESC</item>
+        <item>VOTE_AVG_ASC</item>
+        <item>VOTE_AVG_DESC</item>
+        <item>VOTE_COUNT_ASC</item>
+        <item>VOTE_COUNT_DESC</item>
+        <item>REVENUE_ASC</item>
+        <item>REVENUE_DESC</item>
+    </string-array>
+
+</resources>
